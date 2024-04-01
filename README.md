@@ -11,13 +11,10 @@ MetroApp is an Android application designed to help users plan their metro trave
 
 ## Screenshots
 
-![homepage](https://github.com/nagaditya39/MetroApp/blob/master/images/home_page-1.jpg){:height="300px" width="200px"}
-![search](https://github.com/nagaditya39/MetroApp/blob/master/images/search-results.jpg){:height="300px" width="200px"}
-![confirm](https://github.com/nagaditya39/MetroApp/blob/master/images/ticket-confirm.jpg){:height="300px" width="200px"}
-![History](https://github.com/nagaditya39/MetroApp/blob/master/images/History.jpg){:height="300px" width="200px"}
-
-
-
+<img src="https://github.com/nagaditya39/MetroApp/blob/master/images/home_page-1.jpg" width="200">
+<img src="https://github.com/nagaditya39/MetroApp/blob/master/images/search-results.jpg" width="200">
+<img src="https://github.com/nagaditya39/MetroApp/blob/master/images/ticket-confirm.jpg" width="200">
+<img src="https://github.com/nagaditya39/MetroApp/blob/master/images/History.jpg" width="200">
 
 ## Installation
 
