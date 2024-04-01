@@ -10,12 +10,18 @@ MetroApp is an Android application designed to help users plan their metro trave
 - **SQLite Database**: Implements a SQLite database to store ticket booking information locally.
 
 ## Screenshots
-
-<img src="https://github.com/nagaditya39/MetroApp/blob/master/images/home_page-1.jpg" width="200">
-<img src="https://github.com/nagaditya39/MetroApp/blob/master/images/search-results.jpg" width="200">
-<img src="https://github.com/nagaditya39/MetroApp/blob/master/images/ticket-confirm.jpg" width="200">
-<img src="https://github.com/nagaditya39/MetroApp/blob/master/images/History.jpg" width="200">
-
+<p align="center">
+  <img src="https://github.com/nagaditya39/MetroApp/blob/master/images/home_page-1.jpg" width="200">
+</p>
+<p align="center">
+  <img src="https://github.com/nagaditya39/MetroApp/blob/master/images/search-results.jpg" width="200">
+</p>
+<p align="center">
+  <img src="https://github.com/nagaditya39/MetroApp/blob/master/images/ticket-confirm.jpg" width="200">
+</p>
+<p align="center">
+  <img src="https://github.com/nagaditya39/MetroApp/blob/master/images/History.jpg" width="200">
+</p>
 ## Installation
 
 To run the MetroApp on your Android device or emulator:
