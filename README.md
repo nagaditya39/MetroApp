@@ -11,8 +11,11 @@ MetroApp is an Android application designed to help users plan their metro trave
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![homepage]\images\home page-1.png
+![search]\images\search-results.png
+![confirm]\images\ticket-confirm.png
+![history]\images\History.png
+
 
 ## Installation
 
