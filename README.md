@@ -41,3 +41,7 @@ To run the MetroApp on your Android device or emulator:
 - Search for routes: Enter your origin and destination to find available routes.
 - Book a ticket: Select a route and book your ticket.
 - View ticket history: Navigate to the ticket history page to view your past bookings.
+
+## Contributors
+- Aditya Nag [Github](https://github.com/nagaditya39)
+- Adarsh Kumar [Github](https://github.com/cy6e)
